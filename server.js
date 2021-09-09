@@ -3,6 +3,8 @@ const mongoose = require("mongoose");
 
 const PORT = process.env.PORT || 3000;
 
+mongodb+srv;//WorkoutTracker:DaisyTobyDogs1@workouttracker1db.axjeq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
 mongoose.connect(
   process.env.MONGODB_URI || 'mongodb://localhost/workout',
   {
