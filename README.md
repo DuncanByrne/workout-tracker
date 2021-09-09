@@ -1,4 +1,21 @@
 # workout-tracker
+link to heroku deployed app 
+https://workouttrackerappdb.herokuapp.com/?id=613956f527e78d0016684a29
+
+link to atlas mongodb
+https://cloud.mongodb.com/v2/61393a8f90b0752bd05f74a6#metrics/host/6d16472919884c7cdab103613f8d95c7/status
+
+
+
+Screenshots
+
+![Screen Shot 2021-09-08 at 8 47 25 PM](https://user-images.githubusercontent.com/85514179/132604224-968f6d78-6d65-4991-8739-6f470f57051d.png)
+
+
+![Screen Shot 2021-09-08 at 8 46 55 PM](https://user-images.githubusercontent.com/85514179/132604251-424cee7a-2d0e-4b0f-8112-8a1568f30a1f.png)
+
+
+
 
 # Unit 18 Nosql Homework: Workout Tracker
 
